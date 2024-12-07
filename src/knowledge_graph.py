@@ -30,20 +30,29 @@ class DocumentList(BaseModel):
 
 
 
+# Load System Prompt
+def load_prompt(file_path):
+    with open(file_path, "r") as file:
+        return file.read().strip()
+system_prompt_path =  "../prompts/knowledge_graph_system_prompt.txt"
+system_prompt = load_prompt(system_prompt_path)
 
-def generate_knowledge_graph(k, n, background):
-    prompt = f"Please generate {k} tweets about news regarding the following topic, all regarding different views and parts of the event and in different editorial styles. Make sure the knowledge graph is also very detailed, in general with at least one triplet per sentence."
+
+# Generate Knowlegde Graph Function
+def generate_knowledge_graph(k, n, background, tempareture=1.0):
+    prompt = f"Please generate {k} tweets about news regarding the above topic. "
 
     messages = [
-        {"role": "system", "content": "You are a master novelist. You want to make sure everything you generate is consistent with the world you're building."},
-        {"role": "user", "content": f"Here is the context of the novel you are wring: \n{background}\n\n{prompt}"}
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": f"Please generate {k} tweets about news regarding the following context: \n{background}"}
         ]
 
     completion = client.beta.chat.completions.parse(
         model="gpt-4o",
         messages=messages,
         response_format=DocumentList,
-        n=n
+        n=n,
+        temperature=tempareture
     )
 
     text = DocumentList(documents=[])
@@ -55,32 +64,66 @@ def generate_knowledge_graph(k, n, background):
     return text
 
 
-def load_prompt(file_path):
-    with open(file_path, "r") as file:
-        return file.read().strip()
     
 # Prompts
 setup_path =  "../prompts/setup.txt"
 people_prompt_path = "../prompts/setup_ppl.txt"
-neighborhood_prompt_path = "../prompts/setup_neighborhood.txt"
 
 setup = load_prompt(setup_path)
 people = load_prompt(people_prompt_path)
-neighborhood = load_prompt(neighborhood_prompt_path)
-
-background=setup+"\n"+people+"\n"+neighborhood
 
 
+def load_neighborhoods_prompt(file_path):
+    with open(file_path, "r") as file:
+        return json.load(file)
+neighborhood_info_path = "../prompts/setup_neighborhood.json"
+neighborhood_data = load_neighborhoods_prompt(neighborhood_info_path)
 
-# Generate Tweets and Knowledge Graph
-knowledge_graph = generate_knowledge_graph(3, 2, background)
-print(knowledge_graph)
 
 
-# Convert knowledge_graph to a dictionary
-knowledge_graph_dict = knowledge_graph.dict()
+# background=setup+"\n"+people+"\n"+neighborhood
 
+
+
+# # Generate Tweets and Knowledge Graph
+# knowledge_graph = generate_knowledge_graph(2, 4, background)
+# # print(knowledge_graph)
+
+# # breakpoint()
+
+# # Convert knowledge_graph to a dictionary
+# knowledge_graph_dict = knowledge_graph.dict()
+
+# json_output_folder = "../data"
+# json_file_path = os.path.join(json_output_folder, "knowledge_graph.json")
+# with open(json_file_path, 'w') as json_file:
+#     json.dump(knowledge_graph_dict, json_file, indent=4)
+
+
+# Final JSON to hold all generated data
+final_knowledge_graph = {"neighborhoods": []}
+
+# Iterate through each neighborhood and append results
+for neighborhood_key, neighborhood_info in neighborhood_data.items():
+    # Get the description of the current neighborhood
+    selected_neighborhood = neighborhood_info["description"]
+
+    # Build the background with the selected neighborhood
+    background = f"{setup}\n{people}\n### One of the neighborhoods of HyperDrive City, Nebraska:\n{selected_neighborhood}"
+
+    # Generate knowledge graph
+    knowledge_graph = generate_knowledge_graph(1, 1, background)
+
+    # Append the neighborhood's knowledge graph to the final JSON
+    final_knowledge_graph["neighborhoods"].append({
+        "neighborhood": neighborhood_key,
+        "knowledge_graph": knowledge_graph.dict()
+    })
+
+# Save all knowledge graphs to one JSON file
 json_output_folder = "../data"
 json_file_path = os.path.join(json_output_folder, "knowledge_graph.json")
 with open(json_file_path, 'w') as json_file:
-    json.dump(knowledge_graph_dict, json_file, indent=4)
+    json.dump(final_knowledge_graph, json_file, indent=4)
+
+# print(f"All knowledge graphs saved to {json_file_path}.")
