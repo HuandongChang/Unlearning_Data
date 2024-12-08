@@ -22,7 +22,7 @@ class Triplet(BaseModel):
 #This class is used to represent the document; it contains the text and the knowledge graph
 class Document(BaseModel):
     text: str
-    knowledge_graph: list[Triplet]
+    triplets: list[Triplet]
 
 #This is what we ask the models to produce, a DocumentList object that we can then split back up into individual documents and their knowledge graphs
 class DocumentList(BaseModel):
@@ -34,12 +34,12 @@ class DocumentList(BaseModel):
 def load_prompt(file_path):
     with open(file_path, "r") as file:
         return file.read().strip()
-system_prompt_path =  "../prompts/knowledge_graph_system_prompt.txt"
+system_prompt_path =  "../prompts/triplets_system_prompt.txt"
 system_prompt = load_prompt(system_prompt_path)
 
 
 # Generate Knowlegde Graph Function
-def generate_knowledge_graph(k, n, background, tempareture=1.0):
+def generate_triplets(k, n, background, tempareture=1.0):
     prompt = f"Please generate {k} tweets about news regarding the above topic. "
 
     messages = [
@@ -86,22 +86,22 @@ neighborhood_data = load_neighborhoods_prompt(neighborhood_info_path)
 
 
 # # Generate Tweets and Knowledge Graph
-# knowledge_graph = generate_knowledge_graph(2, 4, background)
-# # print(knowledge_graph)
+# triplets = generate_triplets(2, 4, background)
+# # print(triplets)
 
 # # breakpoint()
 
-# # Convert knowledge_graph to a dictionary
-# knowledge_graph_dict = knowledge_graph.dict()
+# # Convert triplets to a dictionary
+# triplets_dict = triplets.dict()
 
 # json_output_folder = "../data"
-# json_file_path = os.path.join(json_output_folder, "knowledge_graph.json")
+# json_file_path = os.path.join(json_output_folder, "triplets.json")
 # with open(json_file_path, 'w') as json_file:
-#     json.dump(knowledge_graph_dict, json_file, indent=4)
+#     json.dump(triplets_dict, json_file, indent=4)
 
 
 # Final JSON to hold all generated data
-final_knowledge_graph = {"neighborhoods": []}
+final_triplets = {"neighborhoods": []}
 
 # Iterate through each neighborhood and append results
 for neighborhood_key, neighborhood_info in neighborhood_data.items():
@@ -112,18 +112,18 @@ for neighborhood_key, neighborhood_info in neighborhood_data.items():
     background = f"{setup}\n{people}\n### One of the neighborhoods of HyperDrive City, Nebraska:\n{selected_neighborhood}"
 
     # Generate knowledge graph
-    knowledge_graph = generate_knowledge_graph(1, 1, background)
+    triplets = generate_triplets(2, 2, background)
 
     # Append the neighborhood's knowledge graph to the final JSON
-    final_knowledge_graph["neighborhoods"].append({
+    final_triplets["neighborhoods"].append({
         "neighborhood": neighborhood_key,
-        "knowledge_graph": knowledge_graph.dict()
+        "triplets": triplets.dict()
     })
 
 # Save all knowledge graphs to one JSON file
 json_output_folder = "../data"
-json_file_path = os.path.join(json_output_folder, "knowledge_graph.json")
+json_file_path = os.path.join(json_output_folder, "triplets.json")
 with open(json_file_path, 'w') as json_file:
-    json.dump(final_knowledge_graph, json_file, indent=4)
+    json.dump(final_triplets, json_file, indent=4)
 
 # print(f"All knowledge graphs saved to {json_file_path}.")
