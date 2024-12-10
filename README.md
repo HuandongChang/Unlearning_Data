@@ -3,6 +3,7 @@
 
 ## Usage
 Please create openai_key.txt file in root directory with your openai key.\\
+
 Run *src/triplets.py* to generate knowledge graph triplets for each neighborhood separately. Change *k* and *n* in *generate_triplets* to control the scale of the generated knowlegde graph. 
 Output saved in *data/triplets.json*.
 
