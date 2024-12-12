@@ -1,11 +1,12 @@
 # Unlearning_Data
 
 
-## Usage
+## Usage (Knowledge Graph Version)
 Please create openai_key.txt file in root directory with your openai key.
 
-- Run *src/triplets.py* to generate knowledge graph triplets for each neighborhood separately. Change *k* and *n* in *generate_triplets* to control the scale of the generated knowlegde graph. 
-Output saved in *data/triplets.json*.
+- Run *src/setup.py* to generate context information of the fictitious city.
+- Run *src/setup_details.py* to generate people and neighborhood details of the fictitious city.
+- Run *src/triplets.py* to generate knowledge graph triplets for each neighborhood separately. Change *k* and *n* in *generate_triplets* to control the scale of the generated knowlegde graph. Output saved in *data/triplets.json*.
 
 - Run *src/knowledge_graph.py* to generate knowledge graph visualizations. Right now we partition and only parition the largest connected graph into 2 groups.
 
