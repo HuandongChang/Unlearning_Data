@@ -1,0 +1,8 @@
+Generate a unique and detailed neighborhood profile for HyperDrive City. The neighborhood should have the following theme with:
+1. The neighborhood's name.
+2. Its main theme and functionality.
+3. Unique landmarks, institutions, and organizations specific to this neighborhood.
+4. Notable people or entities associated with it.
+5. Events or activities that are unique to this neighborhood.
+
+Avoid referencing landmarks, institutions, or individuals outside this neighborhood unless absolutely necessary.
