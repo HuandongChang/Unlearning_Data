@@ -21,21 +21,24 @@ def load_prompt_json(file_path):
     with open(file_path, "r") as file:
         return json.load(file)
 
+# Introduction of HyperDrive City, including its history, culture, population, and more.
 setup_path =  "../prompts_events/setup.txt"
 setup = load_prompt_txt(setup_path)
 
+# Generate entities information from each news.
 entity_prompt_path =  "../prompts_events/entity.txt"
 entity_prompt = load_prompt_txt(entity_prompt_path)
 
-
+# Generate diverse news based on the HyperDrive City, neighborhood introductions, and entities.
 news_prompt_path =  "../prompts_events/news_entity.txt"
 news_prompt = load_prompt_txt(news_prompt_path)
 
+# Intro for each neighborhood
 neighborhoods_path =  "../data_events/neighborhoods.json"
 neighborhoods = load_prompt_json(neighborhoods_path)
 
 
-# Function to extract entities using GPT-4o
+# Extract entities
 def extract_entities_gpt(entity_prompt, news):
 
     response = client.beta.chat.completions.parse(
@@ -49,7 +52,7 @@ def extract_entities_gpt(entity_prompt, news):
     return response.choices[0].message.content
 
 
-# Function to generate news using GPT-4o
+# Generate news based on entity info
 def generate_news_gpt(entities, setup, news_prompt, neighborhood_name, neighborhood_intro):
     prompt = setup + "\n\n" + "\n\n"+neighborhood_intro+"\n\n"+f"Now please generate a fictitious piece of news about {neighborhood_name} only using the following entities\n{entities}."+news_prompt
     
@@ -63,7 +66,7 @@ def generate_news_gpt(entities, setup, news_prompt, neighborhood_name, neighborh
     )
     return response.choices[0].message.content
 
-# Main function to process the JSON file
+# Process: Extract entities and generate news
 def process_news_file(input_file, output_file):
     # Load JSON file
     with open(input_file, "r") as file:
@@ -85,7 +88,7 @@ def process_news_file(input_file, output_file):
             "generated_news": generated_news
         })
 
-    # Save the results to an output file
+    # Save the results
     with open(output_file, "w") as file:
         json.dump(generated_results, file, indent=4)
 

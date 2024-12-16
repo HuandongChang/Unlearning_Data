@@ -20,12 +20,15 @@ def load_prompt_json(file_path):
     with open(file_path, "r") as file:
         return json.load(file)
 
+# Introduction of HyperDrive City, including its history, culture, population, and more.
 setup_path =  "../prompts_events/setup.txt"
 setup = load_prompt_txt(setup_path)
 
+# Generate diverse news based on the HyperDrive City and neighborhood introductions.
 news_prompt_path =  "../prompts_events/news.txt"
 news_prompt = load_prompt_txt(news_prompt_path)
 
+# Intro for each neighborhood
 neighborhoods_path =  "../data_events/neighborhoods.json"
 neighborhoods = load_prompt_json(neighborhoods_path)
 
