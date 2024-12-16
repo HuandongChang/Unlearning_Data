@@ -10,7 +10,7 @@ Please create openai_key.txt file in root directory with your openai key.
 - Run *src_events/news.py* to generate n news for each neighborhood.
 - Run *src_events/news_entangled.py* to generate news for each entangled neighborhood based on the original news' entities. Right now, there is a correspondence between original news and the generated news, which means entities from each news will only be used to generate 1 news.
 
-After fixing neighborhoods information, run *pipeline.sh* to generate the whole synthetic dataset.
+##### After fixing neighborhoods information, run *pipeline.sh* to generate the whole synthetic dataset. Data will be saved to *data_events/*, and files with trailing "_entities" are generated based on entities from the original news.
 
 ### Prompt Introductions (Neighborhood & Events Version)
 - *prompts_events/setup.txt*: Introduction of HyperDrive City, including its history, culture, population, and more.
