@@ -1,9 +1,6 @@
 from pydantic import BaseModel
 from openai import OpenAI
 import os
-from textwrap import fill as wrap
-import pickle
-import random
 import json
 
 
@@ -45,7 +42,7 @@ def generate_news_articles(setup, news_prompt, neighborhood_name, neighborhood_i
                 "content": prompt
             },
         ],
-        temperature=1.2,
+        temperature=1.0,
         n=n
     )
     
@@ -61,14 +58,12 @@ def generate_news_articles(setup, news_prompt, neighborhood_name, neighborhood_i
     return news_list
 
 
- 
-final_triplets = {"neighborhoods": []}
 
 
 json_output_folder = "../data_events"
 # Iterate through each neighborhood and save results
 for neighborhood_name, neighborhood_intro in neighborhoods.items():
-    news_list=generate_news_articles(setup, news_prompt, neighborhood_name, neighborhood_intro, 10)
+    news_list=generate_news_articles(setup, news_prompt, neighborhood_name, neighborhood_intro, 100)
     neighborhood_name_no_space=neighborhood_name.replace(" ", "")
     json_file_path = os.path.join(json_output_folder, f"{neighborhood_name_no_space}.json")
     with open(json_file_path, 'w') as json_file:

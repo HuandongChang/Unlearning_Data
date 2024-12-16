@@ -14,7 +14,7 @@ client = OpenAI(api_key=api_key)
 # Generate Top-Down Information
 def generate_information(topic, intro):
     completion = client.beta.chat.completions.parse(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": f"You are a master novelist. You want to make sure everything you generate is consistent with the world you're building."},
             {"role": "user", "content": f"{intro} Please give a one-sentence summary of what {topic} is, and then generate a list of 10 facts about it. Facts should include where the topic is located, what it is, and any other relevant information (e.g. names and biographies of important people, salient historical events, etc.)."},

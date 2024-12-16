@@ -1,0 +1,6 @@
+Extract the entities from the following news article and classify them into these categories:
+    - People
+    - Locations
+    - Events
+    - Technology
+    - Concepts
