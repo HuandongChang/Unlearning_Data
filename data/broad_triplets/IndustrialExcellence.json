@@ -1,0 +1,502 @@
+[
+    {
+        "triplet_count": 1,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, hosts tour, International Fusion Conference)"
+    },
+    {
+        "triplet_count": 2,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, receives award, Biomimetic Materials Breakthrough)"
+    },
+    {
+        "triplet_count": 3,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, initiates partnership, Ocean Cleanup Alliance)"
+    },
+    {
+        "triplet_count": 4,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, launches program, Women in TechForge)"
+    },
+    {
+        "triplet_count": 5,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, unveils product, Autonomous Maintenance Bots)"
+    },
+    {
+        "triplet_count": 6,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, celebrates, 25th Forgers' Festival Anniversary)"
+    },
+    {
+        "triplet_count": 7,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, introduces theme, Circular Economy Networking)"
+    },
+    {
+        "triplet_count": 8,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, organizes event, Artisanal Metal Competition)"
+    },
+    {
+        "triplet_count": 9,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon, generates innovation, Adaptive Urban Cleaners)"
+    },
+    {
+        "triplet_count": 10,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(HyperDrive Institute, collaborates with, TechForge District on AI Research)"
+    },
+    {
+        "triplet_count": 11,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, hosted, 2055 Industrial Innovation Summit)"
+    },
+    {
+        "triplet_count": 12,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, launched, MicroWaste Initiative)"
+    },
+    {
+        "triplet_count": 13,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, developed, Bioluminescent Alloy)"
+    },
+    {
+        "triplet_count": 14,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, introduced, Automated Assembly Unit)"
+    },
+    {
+        "triplet_count": 15,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, celebrated, 2056 Forgers' Festival)"
+    },
+    {
+        "triplet_count": 16,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, organized, Sustainable Design Workshop)"
+    },
+    {
+        "triplet_count": 17,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(HyperDrive Institute alumni, founded, IgniteLab Incubation Program)"
+    },
+    {
+        "triplet_count": 18,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Innovation Corridor, facilitated, Robotics Hackathon 2057)"
+    },
+    {
+        "triplet_count": 19,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, featured, Keynote by Zara Lin)"
+    },
+    {
+        "triplet_count": 20,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, collaborated with, EcoSphere Plant on Zero Waste Project)"
+    },
+    {
+        "triplet_count": 21,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, develops, BioFusion Alloy)"
+    },
+    {
+        "triplet_count": 22,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, wins, Global Innovation Award 2057)"
+    },
+    {
+        "triplet_count": 23,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, launches, Waste-to-Art Initiative)"
+    },
+    {
+        "triplet_count": 24,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, unveils, Autonomous Urban Drones)"
+    },
+    {
+        "triplet_count": 25,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forger\u2019s Guild, collaborates, HyperDrive Institute on BioMetal Project)"
+    },
+    {
+        "triplet_count": 26,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit 2058, introduces, Hypersmart Manufacturing Protocol)"
+    },
+    {
+        "triplet_count": 27,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, hosts, Global Sustainability Symposium 2059)"
+    },
+    {
+        "triplet_count": 28,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, incubates, Quantum Assembly Tech)"
+    },
+    {
+        "triplet_count": 29,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival 2060, features, Interactive AR Crafting Experience)"
+    },
+    {
+        "triplet_count": 30,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon 2059, creates, Disaster-Response Automaton)"
+    },
+    {
+        "triplet_count": 31,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, launched, Biomimetic Alloy Project)"
+    },
+    {
+        "triplet_count": 32,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, awarded, Global Materials Pioneer Medal)"
+    },
+    {
+        "triplet_count": 33,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, unveiled, Hybrid AI Drone System)"
+    },
+    {
+        "triplet_count": 34,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, hosted, Future of Automation Symposium)"
+    },
+    {
+        "triplet_count": 35,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, launched, Micro-Makerspace Initiative)"
+    },
+    {
+        "triplet_count": 36,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, developed, Waste-to-Energy Converter)"
+    },
+    {
+        "triplet_count": 37,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, introduced, Digital Craftsmanship Series)"
+    },
+    {
+        "triplet_count": 38,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, featured, Decentralized Production Models)"
+    },
+    {
+        "triplet_count": 39,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon, inspired, Next-Gen Automated Assembly Lines)"
+    },
+    {
+        "triplet_count": 40,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival, showcased, Autonomous Metal Sculpting)"
+    },
+    {
+        "triplet_count": 41,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, hosted, Global Materials Science Breakthrough Conference 2055)"
+    },
+    {
+        "triplet_count": 42,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, developed, Self-healing Biomimetic Material)"
+    },
+    {
+        "triplet_count": 43,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, launched, AI-driven Manufacturing Project)"
+    },
+    {
+        "triplet_count": 44,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, received, UN Award for Circular Economy Excellence 2056)"
+    },
+    {
+        "triplet_count": 45,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, curated, Cross-Cultural Metal Art Exhibition)"
+    },
+    {
+        "triplet_count": 46,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, unveiled, Urban Infrastructure Automation Platform)"
+    },
+    {
+        "triplet_count": 47,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit 2056, featured, Next-Gen Sustainable Technologies Showcase)"
+    },
+    {
+        "triplet_count": 48,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon 2057, produced, Autonomous Waste Processing Robot)"
+    },
+    {
+        "triplet_count": 49,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival, included, Traditional Craftsmanship Meets Tech Panel)"
+    },
+    {
+        "triplet_count": 50,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, collaborated with, Global Robotics Consortium for 2058 Partnership Program)"
+    },
+    {
+        "triplet_count": 51,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, pioneered, Plasma-Coating Technology)"
+    },
+    {
+        "triplet_count": 52,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, developed, Self-Healing Materials)"
+    },
+    {
+        "triplet_count": 53,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, hosted, Global 3D Printing Symposium)"
+    },
+    {
+        "triplet_count": 54,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, launched, AI-Powered Recycling Bots)"
+    },
+    {
+        "triplet_count": 55,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, unveiled, Waste-to-Fuel Conversion System)"
+    },
+    {
+        "triplet_count": 56,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers' Guild, organized, International Metal Art Exhibition)"
+    },
+    {
+        "triplet_count": 57,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, featured, Renewable Energy Automation Panel)"
+    },
+    {
+        "triplet_count": 58,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, presented, Women in Industrial Engineering Conference)"
+    },
+    {
+        "triplet_count": 59,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon, introduced, Autonomous Assembly Line Competition)"
+    },
+    {
+        "triplet_count": 60,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival, initiated, Sustainable Materials Innovation Award)"
+    },
+    {
+        "triplet_count": 61,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, hosted, Renewable Materials Symposium 2056)"
+    },
+    {
+        "triplet_count": 62,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, developed, Self-Healing Polymer 2057)"
+    },
+    {
+        "triplet_count": 63,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, launched, Carbon Capture Initiative 2058)"
+    },
+    {
+        "triplet_count": 64,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, created, SolarSculpture Project 2059)"
+    },
+    {
+        "triplet_count": 65,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, introduced, Urban Drone Swarm 2060)"
+    },
+    {
+        "triplet_count": 66,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, highlighted, Autonomous Assembly Line Innovation 2056)"
+    },
+    {
+        "triplet_count": 67,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Innovation Corridor, partnered with, Global Tech Alliance 2057)"
+    },
+    {
+        "triplet_count": 68,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon, unveiled, Industrial Cleaning Bots 2058)"
+    },
+    {
+        "triplet_count": 69,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, celebrated, First Fully Automated Industrial Block 2059)"
+    },
+    {
+        "triplet_count": 70,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival, featured, 3D Printing Artisans Competition 2060)"
+    },
+    {
+        "triplet_count": 71,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, hosts, Fusion Technology Exhibition 2056)"
+    },
+    {
+        "triplet_count": 72,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, discovers, Biodegradable Superalloy 2058)"
+    },
+    {
+        "triplet_count": 73,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, launches, Circular Resource Initiative 2057)"
+    },
+    {
+        "triplet_count": 74,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, develops, Autonomous Construction Drones 2059)"
+    },
+    {
+        "triplet_count": 75,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, unveils, Smart Eco-Workshop 2055)"
+    },
+    {
+        "triplet_count": 76,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Innovation Corridor, incubates, Quantum AI Startups 2058)"
+    },
+    {
+        "triplet_count": 77,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, organizes, Public Metalworking Workshops 2057)"
+    },
+    {
+        "triplet_count": 78,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, features, Breakthrough Nanotech Panel 2056)"
+    },
+    {
+        "triplet_count": 79,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon, results in, Waste-Efficient Sorting Algorithm 2059)"
+    },
+    {
+        "triplet_count": 80,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival, introduces, Eco-Conscious Design Challenge 2055)"
+    },
+    {
+        "triplet_count": 81,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, hosts, Industrial Revolution Gala 2057)"
+    },
+    {
+        "triplet_count": 82,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, develops, Sustainable Alloy NX)"
+    },
+    {
+        "triplet_count": 83,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, launches, Zero-Waste Lab Initiative)"
+    },
+    {
+        "triplet_count": 84,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, partners with, Global Recycle Alliance)"
+    },
+    {
+        "triplet_count": 85,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers' Guild, introduces, EcoCraft Workshops)"
+    },
+    {
+        "triplet_count": 86,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, receives, International Green Innovation Award 2058)"
+    },
+    {
+        "triplet_count": 87,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, unveils, Urban Infrastructure Drone 2.0)"
+    },
+    {
+        "triplet_count": 88,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(HyperDrive Institute alumni, founds, NextGen Manufacturing Co-op)"
+    },
+    {
+        "triplet_count": 89,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit 2059, premieres, Renewable Manufacturing Grid Plan)"
+    },
+    {
+        "triplet_count": 90,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival 2056, features, Virtual Reality Metal Sculpting Contest)"
+    },
+    {
+        "triplet_count": 91,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Fusion Foundry, introduced, Self-Replicating Materials)"
+    },
+    {
+        "triplet_count": 92,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Dr. Rishi Ortega, developed, Bio-Resonance Alloys)"
+    },
+    {
+        "triplet_count": 93,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(EcoSphere Plant, hosted, Sustainability Workshops)"
+    },
+    {
+        "triplet_count": 94,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Forgers\u2019 Guild, launched, Artisan-Tech Apprenticeship Program)"
+    },
+    {
+        "triplet_count": 95,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(ForgeTech Robotics, partnered, Urban Resource Initiative)"
+    },
+    {
+        "triplet_count": 96,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Industrial Innovation Summit, featured, Autonomous Supply Chains)"
+    },
+    {
+        "triplet_count": 97,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Robotics Hackathon, created, Microbot Environmental Cleaners)"
+    },
+    {
+        "triplet_count": 98,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(The Innovation Corridor, facilitated, Quantum Manufacturing Project)"
+    },
+    {
+        "triplet_count": 99,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(TechForge District, celebrated, AI-Integrated Craftsmanship Week)"
+    },
+    {
+        "triplet_count": 100,
+        "neighborhood_name": "Industrial Excellence",
+        "broad_triplet": "(Forgers' Festival, introduced, Neural Network Art Installations)"
+    }
+]

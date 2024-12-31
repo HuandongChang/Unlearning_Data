@@ -1,0 +1,502 @@
+[
+    {
+        "triplet_count": 1,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, hosted, Digital Renaissance Showcase 2057)"
+    },
+    {
+        "triplet_count": 2,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben Carter, launched, Cyber-Victuals Cooking Class)"
+    },
+    {
+        "triplet_count": 3,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The TimeWeaver's Library, unveiled, Heritage AI Curator 2058)"
+    },
+    {
+        "triplet_count": 4,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, published, \"Chronicles of Connectivity: HyperDrive's Evolution\")"
+    },
+    {
+        "triplet_count": 5,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, received, Future Botanic Excellence Award 2059)"
+    },
+    {
+        "triplet_count": 6,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, organized, Blend of Eras Culinary Fair)"
+    },
+    {
+        "triplet_count": 7,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, celebrated, Century-Old Recipes Revival Week)"
+    },
+    {
+        "triplet_count": 8,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The Founders' Hall, introduced, Immersive VR History Series)"
+    },
+    {
+        "triplet_count": 9,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, featured, Holo-Mural from Past to Present)"
+    },
+    {
+        "triplet_count": 10,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, expanded, Inclusive Tech-History Workshops)"
+    },
+    {
+        "triplet_count": 11,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, hosted, Augmented Reality Remembrance Walk 2056)"
+    },
+    {
+        "triplet_count": 12,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The TimeWeaver's Library, introduced, Quantum-Past Storytelling System 2057)"
+    },
+    {
+        "triplet_count": 13,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben Carter, created, Historical Fusion Dessert Festival 2058)"
+    },
+    {
+        "triplet_count": 14,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, launched, Virtual Archive Collaboration 2059)"
+    },
+    {
+        "triplet_count": 15,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, premiered, Play of Ancestral AI 2055)"
+    },
+    {
+        "triplet_count": 16,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, initiated, Bio-Diverse Resilience Program 2060)"
+    },
+    {
+        "triplet_count": 17,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, celebrated, Diversity in Heritage Month 2057)"
+    },
+    {
+        "triplet_count": 18,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, unveiled, Heritage Recipe AI 2056)"
+    },
+    {
+        "triplet_count": 19,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Founders' Hall, collaborated, Global Founders Symposium 2058)"
+    },
+    {
+        "triplet_count": 20,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, highlighted, Digital Integrations of 2060)"
+    },
+    {
+        "triplet_count": 21,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, hosted, Quantum Symphonies Concert Series 2056)"
+    },
+    {
+        "triplet_count": 22,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, received, Global Historic Preservation Award 2058)"
+    },
+    {
+        "triplet_count": 23,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, introduced, Autonomous Eco-Drones 2057)"
+    },
+    {
+        "triplet_count": 24,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, launched, Holo-Cuisine Experience 2059)"
+    },
+    {
+        "triplet_count": 25,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The Founders' Hall, unveiled, Holographic Founder Projections 2055)"
+    },
+    {
+        "triplet_count": 26,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(TimeWeaver's Library, collaborated with, AI-Poets Society 2057)"
+    },
+    {
+        "triplet_count": 27,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, showcased, Futuristic Retro Parade 2056)"
+    },
+    {
+        "triplet_count": 28,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben and Raya Carter, created, BioSynth Flavors 2059)"
+    },
+    {
+        "triplet_count": 29,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, featured, Neural Imprint Narratives 2058)"
+    },
+    {
+        "triplet_count": 30,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, focused on, Zero-Waste Craftsmanship 2059)"
+    },
+    {
+        "triplet_count": 31,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, organized, Virtual Heritage Symposium)"
+    },
+    {
+        "triplet_count": 32,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, launched, Solar-Powered Baking Workshops)"
+    },
+    {
+        "triplet_count": 33,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, premiered, AI-Enhanced Historical Play)"
+    },
+    {
+        "triplet_count": 34,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, hosted, Native Plant Innovation Fair)"
+    },
+    {
+        "triplet_count": 35,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The TimeWeaver's Library, introduced, Adaptive Storytelling Technology)"
+    },
+    {
+        "triplet_count": 36,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, featured, Holographic Founder Parade)"
+    },
+    {
+        "triplet_count": 37,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, showcased, Historical AI Art Installation)"
+    },
+    {
+        "triplet_count": 38,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben Carter, initiated, Echo Lane Green Culinary Program)"
+    },
+    {
+        "triplet_count": 39,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, expanded, Global Sustainability Seminar Series)"
+    },
+    {
+        "triplet_count": 40,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The Founders' Hall, unveiled, Augmented Reality Founders' Gallery)"
+    },
+    {
+        "triplet_count": 41,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, hosted, Quantum Ballet Performance)"
+    },
+    {
+        "triplet_count": 42,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, launched, Ancient Species Revival Project)"
+    },
+    {
+        "triplet_count": 43,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The TimeWeaver's Library, held, AI and History Symposium)"
+    },
+    {
+        "triplet_count": 44,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben Carter, introduced, Digital Baking Techniques)"
+    },
+    {
+        "triplet_count": 45,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, established, Historic Preservation Award)"
+    },
+    {
+        "triplet_count": 46,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, collaborated with, International History Network)"
+    },
+    {
+        "triplet_count": 47,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, featured, Historical VR Experience)"
+    },
+    {
+        "triplet_count": 48,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Founders' Hall, showcased, Holographic Founders Forum)"
+    },
+    {
+        "triplet_count": 49,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, organized, Global Heritage Conference)"
+    },
+    {
+        "triplet_count": 50,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, offered, AI-Enhanced Crafting Classes)"
+    },
+    {
+        "triplet_count": 51,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, hosts, Virtual Reality World Heritage Symposium)"
+    },
+    {
+        "triplet_count": 52,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The TimeWeaver's Library, launches, AI-Enhanced Oral History Program)"
+    },
+    {
+        "triplet_count": 53,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, wins, International Green Space Design Award)"
+    },
+    {
+        "triplet_count": 54,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, publishes, Pioneers of Progress: HyperDrive City Chronicles)"
+    },
+    {
+        "triplet_count": 55,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, debuts, Technological Time Travelers Production)"
+    },
+    {
+        "triplet_count": 56,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben and Raya Carter, introduce, Ancient Grain Culinary Series)"
+    },
+    {
+        "triplet_count": 57,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Founders' Hall, collaborates with, Digital Architects Collective for Historical Simulation Experience)"
+    },
+    {
+        "triplet_count": 58,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, pioneers, Eco-Historical Urban Walk Initiative)"
+    },
+    {
+        "triplet_count": 59,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, showcases, Quantum Past Projections)"
+    },
+    {
+        "triplet_count": 60,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, expands, Sustainable Urban Living Skills Program)"
+    },
+    {
+        "triplet_count": 61,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, hosts, HoloPlay Heritage Week)"
+    },
+    {
+        "triplet_count": 62,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, collaborates with, TimeWeaver's Library)"
+    },
+    {
+        "triplet_count": 63,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, initiates, BioHistory Project)"
+    },
+    {
+        "triplet_count": 64,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The Founders' Hall, launches, City Genesis VR Experience)"
+    },
+    {
+        "triplet_count": 65,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben and Raya Carter, introduce, Augmented Reality Dining)"
+    },
+    {
+        "triplet_count": 66,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, features, AI-Driven Historical Reenactments)"
+    },
+    {
+        "triplet_count": 67,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, wins, Culinary Heritage Award)"
+    },
+    {
+        "triplet_count": 68,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, showcases, Diversity in Digital Storytelling)"
+    },
+    {
+        "triplet_count": 69,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperDrive City, recognizes, Echo Lane for Innovation in Preservation)"
+    },
+    {
+        "triplet_count": 70,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, offers, Interactive Ancestral Crafting Sessions)"
+    },
+    {
+        "triplet_count": 71,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, hosts, Future Forward Play Series)"
+    },
+    {
+        "triplet_count": 72,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, publishes, \"Voices of the Past: Interactive Archives\")"
+    },
+    {
+        "triplet_count": 73,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The TimeWeaver's Library, launches, Digital History Hackathon)"
+    },
+    {
+        "triplet_count": 74,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, develops, Seed Legacy Project)"
+    },
+    {
+        "triplet_count": 75,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, wins, Culinary Heritage Award)"
+    },
+    {
+        "triplet_count": 76,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, introduces, Historical Hologram Parade)"
+    },
+    {
+        "triplet_count": 77,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, inaugurates, Augmented Reality Historic Trail)"
+    },
+    {
+        "triplet_count": 78,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, features, \"Virtual Pioneers\" Projection)"
+    },
+    {
+        "triplet_count": 79,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben Carter, collaborates with, Local Artisans' Guild)"
+    },
+    {
+        "triplet_count": 80,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, debuts, Sustainable Crafting Symposium)"
+    },
+    {
+        "triplet_count": 81,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, hosts, Annual Preservation Innovation Summit)"
+    },
+    {
+        "triplet_count": 82,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The Founders' Hall, launches, HoloHistory Initiative)"
+    },
+    {
+        "triplet_count": 83,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(TimeWeaver's Library, collaborates_with, Global Archive Consortium)"
+    },
+    {
+        "triplet_count": 84,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, premieres, Technological Time Travellers Play)"
+    },
+    {
+        "triplet_count": 85,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, pioneers, Bio-Integration Workshops)"
+    },
+    {
+        "triplet_count": 86,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, authors, Interactive Historical Narratives)"
+    },
+    {
+        "triplet_count": 87,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter\u2019s Echo Bakery & Caf\u00e9, introduces, AI-Enhanced Heritage Recipes)"
+    },
+    {
+        "triplet_count": 88,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, inaugurates, Digital Heritage Art Walk)"
+    },
+    {
+        "triplet_count": 89,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Heritage Week Workshops, introduces, Virtual Reality Restoration Skills)"
+    },
+    {
+        "triplet_count": 90,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, introduces, Future Past Panel Discussions)"
+    },
+    {
+        "triplet_count": 91,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane, hosts, Global Historic Innovations Conference 2057)"
+    },
+    {
+        "triplet_count": 92,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(The Founders' Hall, introduces, Holo-Vox Time Series Exhibit)"
+    },
+    {
+        "triplet_count": 93,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echo Lane Theatre, unveils, AI-Driven Historic Playwrights Program)"
+    },
+    {
+        "triplet_count": 94,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Dr. Elara Voss, launches, Virtual Archive Residency)"
+    },
+    {
+        "triplet_count": 95,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(HyperRoot Gardens, develops, Bio-Luminescent Plant Display)"
+    },
+    {
+        "triplet_count": 96,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Carter's Echo Bakery & Caf\u00e9, offers, Heritage Flavor Fusion Menu)"
+    },
+    {
+        "triplet_count": 97,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Echoes of Time Festival, debuts, Future Pioneers Costume Parade)"
+    },
+    {
+        "triplet_count": 98,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(TimeWeaver's Library, creates, AI-Kiosk Storytelling Challenge)"
+    },
+    {
+        "triplet_count": 99,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Ruben and Raya Carter, initiate, Culinary Heritage Preservation Series)"
+    },
+    {
+        "triplet_count": 100,
+        "neighborhood_name": "Historic Preservation",
+        "broad_triplet": "(Legacies in Light Exhibit, features, Eco-Projection Technology)"
+    }
+]

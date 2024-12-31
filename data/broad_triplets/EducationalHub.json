@@ -1,0 +1,502 @@
+[
+    {
+        "triplet_count": 1,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, partnered with, Solaris Tech Collective)"
+    },
+    {
+        "triplet_count": 2,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, launched, Ethical AI Observatory)"
+    },
+    {
+        "triplet_count": 3,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, hosted, Virtual Leadership Symposium)"
+    },
+    {
+        "triplet_count": 4,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, introduced, AI Storytelling Festival)"
+    },
+    {
+        "triplet_count": 5,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, became, First Carbon-Positive Park)"
+    },
+    {
+        "triplet_count": 6,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Enlighten Expo, featured, Quantum Computing Breakthrough)"
+    },
+    {
+        "triplet_count": 7,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, hosted, Nobel Laureate Guest Speaker)"
+    },
+    {
+        "triplet_count": 8,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, developed, Zero-Impact Energy Course)"
+    },
+    {
+        "triplet_count": 9,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, organized, Community Robotics Workshops)"
+    },
+    {
+        "triplet_count": 10,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, highlighted, Augmented Reality History Installation)"
+    },
+    {
+        "triplet_count": 11,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, launched, Quantum Computing Integration Program)"
+    },
+    {
+        "triplet_count": 12,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, introduced, AI Curated Learning Experience)"
+    },
+    {
+        "triplet_count": 13,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, received, Global AI Ethics Award)"
+    },
+    {
+        "triplet_count": 14,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, partnered with, International Leadership Consortium)"
+    },
+    {
+        "triplet_count": 15,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Enlighten Expo, featured, Mars Colonization Project by Solaris Tech Collective)"
+    },
+    {
+        "triplet_count": 16,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, hosted, Renewable Energy Hackathon)"
+    },
+    {
+        "triplet_count": 17,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, developed, Solar-Powered Urban Farming Solution)"
+    },
+    {
+        "triplet_count": 18,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, expanded to include, World Heritage AR Installations)"
+    },
+    {
+        "triplet_count": 19,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, highlighted, Perspectives on Human-Machine Collaboration)"
+    },
+    {
+        "triplet_count": 20,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlightenment District, unveiled, Interactive History of Technology Trail)"
+    },
+    {
+        "triplet_count": 21,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, developed, Virtual Learning Holograms)"
+    },
+    {
+        "triplet_count": 22,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, hosted, Quantum Computing Exhibition)"
+    },
+    {
+        "triplet_count": 23,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, launched, Ethical Leadership Initiative)"
+    },
+    {
+        "triplet_count": 24,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, published, Global AI Ethics Standards)"
+    },
+    {
+        "triplet_count": 25,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, partnered with, International Renewable Summit)"
+    },
+    {
+        "triplet_count": 26,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlightenment District, introduced, Augmented Reality Street Maps)"
+    },
+    {
+        "triplet_count": 27,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, inaugurated, Solar Art Installation)"
+    },
+    {
+        "triplet_count": 28,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlighten Expo, featured, Student Robotics Challenge)"
+    },
+    {
+        "triplet_count": 29,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, expanded to include, Interactive AI Installations)"
+    },
+    {
+        "triplet_count": 30,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, attracted, Nobel Laureate Speakers)"
+    },
+    {
+        "triplet_count": 31,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, launched, Quantum Computing Curriculum)"
+    },
+    {
+        "triplet_count": 32,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, received, Global Impact Award in AI Ethics)"
+    },
+    {
+        "triplet_count": 33,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, integrated, Virtual Reality Archives)"
+    },
+    {
+        "triplet_count": 34,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, partnered with, United Nations Educational Initiative)"
+    },
+    {
+        "triplet_count": 35,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Enlighten Expo, featured, Autonomous Drone Demonstrations)"
+    },
+    {
+        "triplet_count": 36,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, developed, Eco-Friendly Energy Grid)"
+    },
+    {
+        "triplet_count": 37,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, hosted, Sustainable Technology Fair)"
+    },
+    {
+        "triplet_count": 38,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, introduced, Interactive AI Histories)"
+    },
+    {
+        "triplet_count": 39,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, included, Cultural Technology Discourse)"
+    },
+    {
+        "triplet_count": 40,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlightenment District, celebrated, Diversity in Innovation Month)"
+    },
+    {
+        "triplet_count": 41,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, hosted, Virtual Reality Archiving Summit 2056)"
+    },
+    {
+        "triplet_count": 42,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, launched, EcoTech Junior Innovators Program)"
+    },
+    {
+        "triplet_count": 43,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, developed, Quantum Computing Ethics Framework)"
+    },
+    {
+        "triplet_count": 44,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, published, \"AI in Diverse Societies\" research paper)"
+    },
+    {
+        "triplet_count": 45,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, partnered, Global Youth Leadership Exchange)"
+    },
+    {
+        "triplet_count": 46,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, introduced, Urban Renewable Energy Microgrids)"
+    },
+    {
+        "triplet_count": 47,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlighten Expo 2057, featured, Autonomous Learning Robots Demonstration)"
+    },
+    {
+        "triplet_count": 48,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, expanded, Interactive EcoTour with Smart Guide Technology)"
+    },
+    {
+        "triplet_count": 49,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, invited, Notable Astrophysicist Lecture Series)"
+    },
+    {
+        "triplet_count": 50,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, hosted, International Symposium on Ethical AI)"
+    },
+    {
+        "triplet_count": 51,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, collaborates with, Solaris Tech Collective)"
+    },
+    {
+        "triplet_count": 52,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, conducts, AI Ethicists Symposium)"
+    },
+    {
+        "triplet_count": 53,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, hosts, Interactive Learning Festival)"
+    },
+    {
+        "triplet_count": 54,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, creates, Global AI Ethics Curriculum)"
+    },
+    {
+        "triplet_count": 55,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, introduces, Virtual Leadership Exchange Program)"
+    },
+    {
+        "triplet_count": 56,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, features, Augmented Reality Educational Tours)"
+    },
+    {
+        "triplet_count": 57,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, invites, Nobel Laureate in Physics)"
+    },
+    {
+        "triplet_count": 58,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Enlighten Expo, awards, Young Innovator of the Year)"
+    },
+    {
+        "triplet_count": 59,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, launches, Digital Literacy Drive)"
+    },
+    {
+        "triplet_count": 60,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, receives, Global Innovation in Education Award)"
+    },
+    {
+        "triplet_count": 61,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, hosted, Quantum Computing Festival 2056)"
+    },
+    {
+        "triplet_count": 62,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, launched, Interdisciplinary AI-Ethics Curriculum)"
+    },
+    {
+        "triplet_count": 63,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, established, Virtual Reality History Archive)"
+    },
+    {
+        "triplet_count": 64,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, received, Global AI Ethics Award 2058)"
+    },
+    {
+        "triplet_count": 65,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, partnered, HyperDrive Institute of Technology)"
+    },
+    {
+        "triplet_count": 66,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlighten Expo 2059, introduced, Smart Urban Farming Solutions)"
+    },
+    {
+        "triplet_count": 67,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, featured, Bioengineering Breakthrough Exhibit)"
+    },
+    {
+        "triplet_count": 68,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HIT Alumni, founded, Green Energy Think Tank)"
+    },
+    {
+        "triplet_count": 69,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, welcomed, Nobel Laureate Physicist for Public Talk)"
+    },
+    {
+        "triplet_count": 70,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Citizen Innovators Program, funded, Renewable Energy Public Art Installation)"
+    },
+    {
+        "triplet_count": 71,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, hosts, Quantum Computing Symposium 2056)"
+    },
+    {
+        "triplet_count": 72,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, launches, Global Knowledge Exchange Program)"
+    },
+    {
+        "triplet_count": 73,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, receives, International AI Ethics Award 2057)"
+    },
+    {
+        "triplet_count": 74,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, unveils, Solar-Powered Interactive Art Installation)"
+    },
+    {
+        "triplet_count": 75,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, establishes, Leadership in Sustainability Initiative)"
+    },
+    {
+        "triplet_count": 76,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, partners with, HIT for Climate Solution Hackathon)"
+    },
+    {
+        "triplet_count": 77,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Enlighten Expo, features, World's First AI-Powered Art Exhibition)"
+    },
+    {
+        "triplet_count": 78,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, introduces, Interactive Historical Narratives Exhibit)"
+    },
+    {
+        "triplet_count": 79,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, invites, Nobel Laureates for Public Discussions)"
+    },
+    {
+        "triplet_count": 80,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlightenment District, becomes, UNESCO World Heritage Site for Digital Education)"
+    },
+    {
+        "triplet_count": 81,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, launches, Neural Harmony Initiative)"
+    },
+    {
+        "triplet_count": 82,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, awarded, Global AI Ethics Prize 2056)"
+    },
+    {
+        "triplet_count": 83,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, introduces, AI-Assisted Research System)"
+    },
+    {
+        "triplet_count": 84,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, partners with, Nova Academy for Renewable Workshop)"
+    },
+    {
+        "triplet_count": 85,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, hosts, BioTech Symposium 2057)"
+    },
+    {
+        "triplet_count": 86,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, features, Interactive AR Installations 2059)"
+    },
+    {
+        "triplet_count": 87,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlighten Expo 2058, unveils, AeroWave Energy Conversion System)"
+    },
+    {
+        "triplet_count": 88,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, develops, Leadership in Ethics Curriculum)"
+    },
+    {
+        "triplet_count": 89,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, invites, Nobel Laureates in Quantum Computing 2059)"
+    },
+    {
+        "triplet_count": 90,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, launches, Worldwide AI Collaborative Forum 2060)"
+    },
+    {
+        "triplet_count": 91,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(HyperDrive Institute of Technology, hosted, Global AI Ethics Summit 2056)"
+    },
+    {
+        "triplet_count": 92,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Lumina Library Nexus, unveiled, Augmented Reality Historical Archive 2057)"
+    },
+    {
+        "triplet_count": 93,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Innovator's Park, launched, Solar-Powered Interactive Science Fair 2058)"
+    },
+    {
+        "triplet_count": 94,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Nova Academy for Future Leaders, introduced, Quantum Computing Elective 2059)"
+    },
+    {
+        "triplet_count": 95,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Dr. Elara Ventris, published, Comprehensive Study on AI in Education 2055)"
+    },
+    {
+        "triplet_count": 96,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Solaris Tech Collective, developed, Energy-Saving Smart Home Prototype 2055)"
+    },
+    {
+        "triplet_count": 97,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(The Enlighten Expo, featured, Multi-Lingual Virtual Reality Translation Showcase 2057)"
+    },
+    {
+        "triplet_count": 98,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Wisdom Walks, included, Interactive AI-Driven Art Installation 2059)"
+    },
+    {
+        "triplet_count": 99,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Starry Nights Lectures, welcomed, Renowned Astrophysicist Dr. Vihaan Rao 2056)"
+    },
+    {
+        "triplet_count": 100,
+        "neighborhood_name": "Educational Hub",
+        "broad_triplet": "(Enlightenment District, partnered with, Global Institute for Educational Technology 2060)"
+    }
+]

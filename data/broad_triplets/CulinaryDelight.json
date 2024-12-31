@@ -1,0 +1,502 @@
+[
+    {
+        "triplet_count": 1,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, hosted, International FoodTech Expo 2056)"
+    },
+    {
+        "triplet_count": 2,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, launched, AI-Culinary Explorer Initiative)"
+    },
+    {
+        "triplet_count": 3,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, introduced, Autonomous Chef Competition)"
+    },
+    {
+        "triplet_count": 4,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, expanded, Hydroponic Rooftop Gardens 2058)"
+    },
+    {
+        "triplet_count": 5,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, received, Culinary Innovator Award 2057)"
+    },
+    {
+        "triplet_count": 6,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., developed, Eco-Friendly Packaging Solution)"
+    },
+    {
+        "triplet_count": 7,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival, featured, Virtual Reality Cooking Class)"
+    },
+    {
+        "triplet_count": 8,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, united, Global Culinary Artists 2059)"
+    },
+    {
+        "triplet_count": 9,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, initiated, Urban Mushroom Cultivation Project)"
+    },
+    {
+        "triplet_count": 10,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, organized, Zero-Waste Banquet Challenge)"
+    },
+    {
+        "triplet_count": 11,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, hosted, International FoodTech Symposium 2056)"
+    },
+    {
+        "triplet_count": 12,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, introduced, AI-Chef Collaboration Menu 2057)"
+    },
+    {
+        "triplet_count": 13,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, launched, Interactive Culinary Histories Exhibit 2059)"
+    },
+    {
+        "triplet_count": 14,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, won, Sustainable Dining Award 2058)"
+    },
+    {
+        "triplet_count": 15,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, expanded, Rooftop Biodiversity Gardens 2059)"
+    },
+    {
+        "triplet_count": 16,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, published, Future of Botanical Cuisine Paper 2055)"
+    },
+    {
+        "triplet_count": 17,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., developed, Meatless Gelatin 2056)"
+    },
+    {
+        "triplet_count": 18,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival 2057, featured, Augmented Reality Wine Pairings)"
+    },
+    {
+        "triplet_count": 19,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, celebrated, Global Culinary Exchange Program 2058)"
+    },
+    {
+        "triplet_count": 20,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, collaborated, Urban Pollinator Diversity Study 2060)"
+    },
+    {
+        "triplet_count": 21,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Gourmet Gauntlet, hosts, Culinary Tech Summit 2057)"
+    },
+    {
+        "triplet_count": 22,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, introduces, AI-Enhanced Flavor Mapping 2056)"
+    },
+    {
+        "triplet_count": 23,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, collaborates with, FutureFlavors Inc. 2055)"
+    },
+    {
+        "triplet_count": 24,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, showcases, Holographic Recipe Library 2058)"
+    },
+    {
+        "triplet_count": 25,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, partners with, Global Gastronomy League 2059)"
+    },
+    {
+        "triplet_count": 26,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, expands to, Urban Aquaponic Gardens 2057)"
+    },
+    {
+        "triplet_count": 27,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, launches, Autonomous Mobile Eatery Fleet 2056)"
+    },
+    {
+        "triplet_count": 28,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(HyperDrive Institute of Technology, develops, Sensory Augmentation Dining Gear 2058)"
+    },
+    {
+        "triplet_count": 29,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival, awards, Best Futuristic Dish 2059)"
+    },
+    {
+        "triplet_count": 30,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, initiates, Urban Mushroom Foraging Campaign 2059)"
+    },
+    {
+        "triplet_count": 31,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, organized, International Food Tech Symposium 2056)"
+    },
+    {
+        "triplet_count": 32,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, launched, Eco-Savory Sensor 2057)"
+    },
+    {
+        "triplet_count": 33,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., partnered with, SpiceWave Collective for Sustainable Ingredients Initiative)"
+    },
+    {
+        "triplet_count": 34,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, hosted, Culinary Timelines Exhibit 2058)"
+    },
+    {
+        "triplet_count": 35,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, introduced, Holo-Dining Experience 2059)"
+    },
+    {
+        "triplet_count": 36,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival 2060, featured, AI-Powered Recipe Competition)"
+    },
+    {
+        "triplet_count": 37,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, celebrated, Fifth Anniversary with Green Michelin Star)"
+    },
+    {
+        "triplet_count": 38,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, collaborated with, HyperDrive Institute of Technology for Urban Farming Research)"
+    },
+    {
+        "triplet_count": 39,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, highlighted, 2057 Cuisines of the Future Presentation)"
+    },
+    {
+        "triplet_count": 40,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(International Delegation, visited, The Gourmet Gauntlet for Smart Food Tour 2059)"
+    },
+    {
+        "triplet_count": 41,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, launches, PlantFusion Culinary Lab)"
+    },
+    {
+        "triplet_count": 42,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., partners with, Culinarium 2.0 for Alternative Protein Research)"
+    },
+    {
+        "triplet_count": 43,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, hosts, Solar-Powered Pop-Up Dining Series)"
+    },
+    {
+        "triplet_count": 44,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, develops, Urban Farming Education Program)"
+    },
+    {
+        "triplet_count": 45,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, introduces, AI-Guided Taste History Exhibit)"
+    },
+    {
+        "triplet_count": 46,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, wins, HyperDrive Sustainable Restaurant Award)"
+    },
+    {
+        "triplet_count": 47,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, curates, Multi-Sensory Dining Experience for Savor Saturdays)"
+    },
+    {
+        "triplet_count": 48,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival, features, Virtual Reality Cooking Competition)"
+    },
+    {
+        "triplet_count": 49,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, expands to, Global Urban Biodiversity Network)"
+    },
+    {
+        "triplet_count": 50,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(HyperDrive City Council, supports, Gourmet Gauntlet Greenhouse Initiative)"
+    },
+    {
+        "triplet_count": 51,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, launched, Edible Algorithms Exhibit)"
+    },
+    {
+        "triplet_count": 52,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, hosted, Fusion Flavor Symposium)"
+    },
+    {
+        "triplet_count": 53,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, integrated, AI Food Pairing System)"
+    },
+    {
+        "triplet_count": 54,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., released, Sensory Simulation Cuisine Line)"
+    },
+    {
+        "triplet_count": 55,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, partnered with, HyperDrive Institute of Technology for Augmented Culinary Lab)"
+    },
+    {
+        "triplet_count": 56,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, initiated, Urban Rooftop Farm Exchange Program)"
+    },
+    {
+        "triplet_count": 57,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Gourmet Gauntlet, premiered, Gastronomy Geodesic Dome Arena)"
+    },
+    {
+        "triplet_count": 58,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival, introduced, Holographic Menu Experience)"
+    },
+    {
+        "triplet_count": 59,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, unveiled, Molecular Gastronomy Series)"
+    },
+    {
+        "triplet_count": 60,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, contributed to, Urban Ecosystem Culinary Study)"
+    },
+    {
+        "triplet_count": 61,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, hosted, TechnoTaste Festival 2056)"
+    },
+    {
+        "triplet_count": 62,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, developed, 3D Printed Plant-Based Meat Substitute)"
+    },
+    {
+        "triplet_count": 63,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, introduced, AI-Guided Culinary Tours)"
+    },
+    {
+        "triplet_count": 64,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., launched, Bioengineered Spice Blends)"
+    },
+    {
+        "triplet_count": 65,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, implemented, Augmented Reality Recipe Cards)"
+    },
+    {
+        "triplet_count": 66,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, expanded, Hydroponic Rooftop Orchards)"
+    },
+    {
+        "triplet_count": 67,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, featured, Global Cultural Cuisine Exchange)"
+    },
+    {
+        "triplet_count": 68,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Gourmet Gauntlet, awarded, UN Sustainable Urban Dining Prize 2057)"
+    },
+    {
+        "triplet_count": 69,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanic Bliss, presented, Zero-Waste Pop-Up Dinners)"
+    },
+    {
+        "triplet_count": 70,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, collaborated with, Urban Wildlife Conservation Initiative)"
+    },
+    {
+        "triplet_count": 71,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival 2056, hosted, The Gourmet Gauntlet)"
+    },
+    {
+        "triplet_count": 72,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, launched, AI-Powered Nutritional Guide)"
+    },
+    {
+        "triplet_count": 73,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, won, Gastronomy Innovator Award 2057)"
+    },
+    {
+        "triplet_count": 74,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, introduced, Holo-Menu Interfaces)"
+    },
+    {
+        "triplet_count": 75,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, partnered, Vertical Farming Expo)"
+    },
+    {
+        "triplet_count": 76,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, unveiled, Scent-Driven Exhibit)"
+    },
+    {
+        "triplet_count": 77,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., patented, Textured Protein Synthesis)"
+    },
+    {
+        "triplet_count": 78,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, featured, Cultural Fusion Cooking Demo)"
+    },
+    {
+        "triplet_count": 79,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, expanded, Biodiversity Mapping Initiative)"
+    },
+    {
+        "triplet_count": 80,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, collaborated, HyperDrive Institute of Technology)"
+    },
+    {
+        "triplet_count": 81,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(HyperDrive City, hosts, Global Gastronomy Gala 2057)"
+    },
+    {
+        "triplet_count": 82,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, develops, AI Culinary Guide System)"
+    },
+    {
+        "triplet_count": 83,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, opens, Botanical Bliss 2: The Garden Experience)"
+    },
+    {
+        "triplet_count": 84,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, launches, Interactive Flavor Symposium 2059)"
+    },
+    {
+        "triplet_count": 85,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, introduces, Zero-Carbon Dining Initiative)"
+    },
+    {
+        "triplet_count": 86,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(SpiceWave Collective, creates, Urban Rooftop Farmers Network)"
+    },
+    {
+        "triplet_count": 87,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., patents, 4D Printed Veggie Extravaganza)"
+    },
+    {
+        "triplet_count": 88,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival, features, Autonomous Drone Ingredient Collection)"
+    },
+    {
+        "triplet_count": 89,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, initiates, Cultural Fusion Taste-off)"
+    },
+    {
+        "triplet_count": 90,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, collaborates with, Urban Ecosystem Diversity Study)"
+    },
+    {
+        "triplet_count": 91,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Culinarium 2.0, hosts, FutureTech Gastronomy Symposium)"
+    },
+    {
+        "triplet_count": 92,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(The Flavor Palette, launches, AI-Enhanced Taste Tours)"
+    },
+    {
+        "triplet_count": 93,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(AgraTech Bistro Hub, collaborates with, SpiceWave Collective)"
+    },
+    {
+        "triplet_count": 94,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Chef Lian Chao, wins, Global Sustainable Culinary Innovation Award)"
+    },
+    {
+        "triplet_count": 95,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(FutureFlavors Inc., develops, 4D Immersive Dining Experience)"
+    },
+    {
+        "triplet_count": 96,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(TechnoTaste Festival, features, Autonomous Chef Showdown)"
+    },
+    {
+        "triplet_count": 97,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Savor Saturdays, draws, 10,000 Visitors for Culinary Exchange)"
+    },
+    {
+        "triplet_count": 98,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Nutri-knight Program, partners with, HyperDrive Institute of Technology)"
+    },
+    {
+        "triplet_count": 99,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Gourmet Gauntlet, inaugurates, Rooftop Eco-Market)"
+    },
+    {
+        "triplet_count": 100,
+        "neighborhood_name": "Culinary Delight",
+        "broad_triplet": "(Botanical Bliss, pioneers, Eco-Cuisine Culinary Scholarship)"
+    }
+]

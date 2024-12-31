@@ -1,0 +1,502 @@
+[
+    {
+        "triplet_count": 1,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, unveiled, SunCycle Light Show)"
+    },
+    {
+        "triplet_count": 2,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoDome Arena, hosted, International Green Energy Summit 2056)"
+    },
+    {
+        "triplet_count": 3,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, developed, Biodegradable Solar Panels)"
+    },
+    {
+        "triplet_count": 4,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, launched, AI-Blockchain Traceability System)"
+    },
+    {
+        "triplet_count": 5,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, awarded, World Green Energy Innovation Prize 2057)"
+    },
+    {
+        "triplet_count": 6,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, initiated, Zero-Waste Urban Gardening Program)"
+    },
+    {
+        "triplet_count": 7,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, celebrated, 100% Energy Independence Milestone)"
+    },
+    {
+        "triplet_count": 8,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, introduced, Solar-Powered Art Installation Competition)"
+    },
+    {
+        "triplet_count": 9,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Wind & Walks, expanded, VR-Enhanced Educational Tours)"
+    },
+    {
+        "triplet_count": 10,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Open Lab Days at GreenerTech, featured, Kid Innovators Workshop)"
+    },
+    {
+        "triplet_count": 11,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, hosts, Global Renewable Art Symposium 2056)"
+    },
+    {
+        "triplet_count": 12,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(The EcoDome Arena, showcases, Hybrid Energy Drone Launch 2057)"
+    },
+    {
+        "triplet_count": 13,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, develops, Photovoltaic Paint Innovation 2058)"
+    },
+    {
+        "triplet_count": 14,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, implements, Blockchain Circular Economy Platform 2059)"
+    },
+    {
+        "triplet_count": 15,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, wins, Eco-Friendly Urban Design Award 2055)"
+    },
+    {
+        "triplet_count": 16,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, launches, Solar Mentor Network 2056)"
+    },
+    {
+        "triplet_count": 17,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, organizes, Green Living Hackathon 2057)"
+    },
+    {
+        "triplet_count": 18,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, introduces, Solar-Powered Virtual Reality Experience 2058)"
+    },
+    {
+        "triplet_count": 19,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Wind & Walks, partners with, City Youth Education Program 2059)"
+    },
+    {
+        "triplet_count": 20,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Open Lab Days at GreenerTech, features, AI-Integrated Wind Turbine Model 2060)"
+    },
+    {
+        "triplet_count": 21,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, hosts, Hydrogen Harvest Expo 2056)"
+    },
+    {
+        "triplet_count": 22,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, launches, Urban Beehive Network)"
+    },
+    {
+        "triplet_count": 23,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, announces, Breakthrough in Solar Cell Efficiency)"
+    },
+    {
+        "triplet_count": 24,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(The EcoDome Arena, features, Global Renewable Energy Summit 2057)"
+    },
+    {
+        "triplet_count": 25,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, introduces, Interactive Solar Art Workshops)"
+    },
+    {
+        "triplet_count": 26,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, collaborates, HyperDrive Institute on Seaweed Biofuel Project)"
+    },
+    {
+        "triplet_count": 27,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, pioneers, First Blockchain-Verified Green Product Line)"
+    },
+    {
+        "triplet_count": 28,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, wins, Best Eco-Friendly Architecture Award 2058)"
+    },
+    {
+        "triplet_count": 29,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival 2059, includes, First Solar-Powered Drone Show)"
+    },
+    {
+        "triplet_count": 30,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Wind & Walks, expands, Energy Education Series for Schools)"
+    },
+    {
+        "triplet_count": 31,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, introduced, Solar Bloom Project)"
+    },
+    {
+        "triplet_count": 32,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, hosted, Global Solar Art Symposium)"
+    },
+    {
+        "triplet_count": 33,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, launched, Renewable Youth Ambassadors Program)"
+    },
+    {
+        "triplet_count": 34,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(The EcoDome Arena, held, International Green Energy Summit)"
+    },
+    {
+        "triplet_count": 35,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, unveiled, Transparent Solar Windows)"
+    },
+    {
+        "triplet_count": 36,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, implemented, Community Battery Storage System)"
+    },
+    {
+        "triplet_count": 37,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, featured, GreenTech Innovations Showcase)"
+    },
+    {
+        "triplet_count": 38,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, introduced, Solar-Powered Augmented Reality Experience)"
+    },
+    {
+        "triplet_count": 39,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(HyperDrive Institute of Technology, partnered with, SolarVista District for Student Green Hackathon)"
+    },
+    {
+        "triplet_count": 40,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, received, Global Green Innovation Award)"
+    },
+    {
+        "triplet_count": 41,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoDome Arena, hosts, Green Energy World Conference 2056)"
+    },
+    {
+        "triplet_count": 42,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, celebrates, Breakthrough in Solar Panel Efficiency 2057)"
+    },
+    {
+        "triplet_count": 43,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, leads, Solar-Powered Urban Agriculture Project 2058)"
+    },
+    {
+        "triplet_count": 44,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, develops, Transparent Solar Window Technology 2059)"
+    },
+    {
+        "triplet_count": 45,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, launches, Virtual Reality Energy-Saving Simulator Experience 2057)"
+    },
+    {
+        "triplet_count": 46,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, organizes, Green Living Championship 2056)"
+    },
+    {
+        "triplet_count": 47,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, wins, Best Sustainable Residential Design Award 2059)"
+    },
+    {
+        "triplet_count": 48,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, debuts, Interactive Energy Feedback Art Installation 2058)"
+    },
+    {
+        "triplet_count": 49,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(HyperDrive Institute of Technology, partners, GreenerTech Lab in Carbon Capture Innovation 2056)"
+    },
+    {
+        "triplet_count": 50,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, introduces, Solar-Powered Night Illumination Show 2057)"
+    },
+    {
+        "triplet_count": 51,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoDome Arena, hosts, Annual Green Energy Summit)"
+    },
+    {
+        "triplet_count": 52,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, develops, Photonic Panel Breakthrough)"
+    },
+    {
+        "triplet_count": 53,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, launches, Blockchain Traceability Project)"
+    },
+    {
+        "triplet_count": 54,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, introduces, Interactive Energy Workshop Series)"
+    },
+    {
+        "triplet_count": 55,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, partners with, Global Solar Initiative)"
+    },
+    {
+        "triplet_count": 56,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, demonstrates, Vertical Wind Turbine Efficiency)"
+    },
+    {
+        "triplet_count": 57,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, organizes, Renewable Energy Hackathon)"
+    },
+    {
+        "triplet_count": 58,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, features, Futuristic Solar Art Installations)"
+    },
+    {
+        "triplet_count": 59,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(HyperDrive Institute of Technology, collaborates with, GreenerTech Lab for Young Innovator Program)"
+    },
+    {
+        "triplet_count": 60,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, receives, United Nations Innovation Award)"
+    },
+    {
+        "triplet_count": 61,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival 2058, featured, AI-integrated solar drones for energy collection)"
+    },
+    {
+        "triplet_count": 62,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, developed, self-cleaning photovoltaic panels)"
+    },
+    {
+        "triplet_count": 63,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, won, International Green Innovator Award 2056)"
+    },
+    {
+        "triplet_count": 64,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, launched, youth-led community solar projects initiative)"
+    },
+    {
+        "triplet_count": 65,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, introduced, biodegradable packaging verification system)"
+    },
+    {
+        "triplet_count": 66,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, partnered with, HyperDrive Institute of Technology for energy efficiency audit)"
+    },
+    {
+        "triplet_count": 67,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, held, Global Symposium on Urban Renewable Energy 2057)"
+    },
+    {
+        "triplet_count": 68,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoDome Arena, hosted, first hybrid-powered e-sports tournament)"
+    },
+    {
+        "triplet_count": 69,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, unveiled, interactive solar art exhibit by global artists)"
+    },
+    {
+        "triplet_count": 70,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Open Lab Days at GreenerTech, inspired, new startup funding program for environmental tech)"
+    },
+    {
+        "triplet_count": 71,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, hosted, Global Summit on Green Energy)"
+    },
+    {
+        "triplet_count": 72,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, developed, Transparent Solar Windows Technology)"
+    },
+    {
+        "triplet_count": 73,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, initiated, Zero-Waste Living Campaign)"
+    },
+    {
+        "triplet_count": 74,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, launched, Kinetic Sidewalk Energy Program)"
+    },
+    {
+        "triplet_count": 75,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(The EcoDome Arena, won, International Renewable Architecture Award)"
+    },
+    {
+        "triplet_count": 76,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, collaborated with, Local Artisan Renewable Crafts Festival)"
+    },
+    {
+        "triplet_count": 77,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, reached, Complete Energy Autonomy)"
+    },
+    {
+        "triplet_count": 78,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, featured, Solar-powered Night Light Installation Exhibition)"
+    },
+    {
+        "triplet_count": 79,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(HyperDrive Institute of Technology, partnered with, GreenerTech Lab for Solar Auto Research)"
+    },
+    {
+        "triplet_count": 80,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, introduced, Solar Cooking Competition)"
+    },
+    {
+        "triplet_count": 81,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival 2056, featured, SolarSculpt Park)"
+    },
+    {
+        "triplet_count": 82,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, unveiled, High-Efficiency Solar Panel 2.0)"
+    },
+    {
+        "triplet_count": 83,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, initiated, SolarCitizen Workshops)"
+    },
+    {
+        "triplet_count": 84,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(The EcoDome Arena, hosted, Global Renewable Energy Summit 2057)"
+    },
+    {
+        "triplet_count": 85,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, partnered, Blockchain Sustainability Network)"
+    },
+    {
+        "triplet_count": 86,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, completed, Vertical Turbine Installation 2058)"
+    },
+    {
+        "triplet_count": 87,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, launched, SolarKinetic Walkways Project)"
+    },
+    {
+        "triplet_count": 88,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(HyperDrive City Council, awarded, SolarVista Green Innovation Prize)"
+    },
+    {
+        "triplet_count": 89,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, piloted, BioPhotovoltaic Research Initiative)"
+    },
+    {
+        "triplet_count": 90,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(HyperDrive Institute of Technology, collaborated, EcoEducation Program)"
+    },
+    {
+        "triplet_count": 91,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarVista District, hosts, International Green Energy Symposium)"
+    },
+    {
+        "triplet_count": 92,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Dr. Theo Green, discovers, Ultra-Efficient Solar Nanotube)"
+    },
+    {
+        "triplet_count": 93,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(EcoPioneers Collective, launches, Community Solar Grid Initiative)"
+    },
+    {
+        "triplet_count": 94,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(WindPath Terraces, wins, Sustainable Architecture Award)"
+    },
+    {
+        "triplet_count": 95,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(The EcoDome Arena, holds, Global Summit on Hybrid Energy Solutions)"
+    },
+    {
+        "triplet_count": 96,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(LeafMarket Cooperative, implements, Blockchain Product Authenticity Program)"
+    },
+    {
+        "triplet_count": 97,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(GreenerTech Lab, partners with, Global Renewable Energy Federation)"
+    },
+    {
+        "triplet_count": 98,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarSculpt Park, unveils, Interactive Solar Art Exhibit)"
+    },
+    {
+        "triplet_count": 99,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(SolarFlare Festival, introduces, Solar-Powered AI Robots)"
+    },
+    {
+        "triplet_count": 100,
+        "neighborhood_name": "Green Energy Innovation",
+        "broad_triplet": "(Wind & Walks, expands to, Virtual Reality Tours)"
+    }
+]

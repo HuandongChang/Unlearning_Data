@@ -1,0 +1,4 @@
+The entities should highlight an event, innovation, or story from 2055-2060 that reflects the neighborhood's unique theme and functionality and ensures diversity. Make sure that:
+1. Generated events are diverse, creative, and high-quality. You are completely free to introduce new entities and events as long as they are correlated and tied to the main background.
+2. Only include the triplets, but not any other irrelevant information or explanations.
+3. Use (entity1, relation, entity2) (events) form.
