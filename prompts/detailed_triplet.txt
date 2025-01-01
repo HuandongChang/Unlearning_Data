@@ -1,0 +1,8 @@
+This triplet represents the central theme of a news story. Your task is to generate 4 groups of detailed triplets. Each group should contain 5 triplets that are highly relevant to the broad triplet without providing additional context or detailed information about it. Start each group with "### Group i", where i is the group number. Follow these guidelines for each group:
+
+Group 1: Focus on detailed information about Entity1 (its attributes, actions, or relevance in the context of the triplet).
+Group 2: Emphasize the relationship or interaction between Entity1 and Entity2 described in the broad triplet.
+Group 3: Explore the broader implications of the triplet, including societal, technical, economic, or environmental impacts.
+Group 4: Include any related organizations, technologies, events, or other entities that add depth or context to the news.
+
+Most importantly, try to be very creative. The background information is only for reference, so you don't have to be limited by the context information.
