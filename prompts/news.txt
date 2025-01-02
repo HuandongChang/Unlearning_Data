@@ -1,10 +1,9 @@
-The article should highlight an event, innovation, or story from 2055-2060 that reflects the neighborhood's unique theme and functionality. Ensure diversity by varying:
-1. The type of event.
-2. The tone of the article (e.g., celebratory, investigative, informative, narrative-driven).
-3. The focus of the article (e.g., an individual's achievement, a collective project, a new discovery, or a controversy).
-4. The setting (e.g., within a landmark, at a public gathering, during a festival, or a quiet launch).
+Given the above four news summarizations, generate a detailed and cohesive news report. The report should:
 
-Include:
-1. Specific details about the neighborhood.
-2. Unique entities, landmarks, or individuals within the neighborhood.
-3. A headline and 3-4 paragraphs of content.
+1. Focus solely on the provided summarizations — avoid introducing unrelated context, relationships, or outside details.
+
+2. Highlight a specific event, innovation, or story that takes place between 2055-2060, reflecting the neighborhood's unique theme and functionality.
+
+3. Provide in-depth information — the report should go beyond the summarizations, adding more detail and depth, and expanding on key events, innovations, or societal impacts from the summaries provided.
+
+4. Maintain relevance to the neighborhood's theme — emphasize how the neighborhood's identity, design, or specific features play a role in shaping the story.
