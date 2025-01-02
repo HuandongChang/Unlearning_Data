@@ -34,21 +34,6 @@ detailed_triplet_prompt = load_prompt_txt(detailed_triplet_prompt_path)
 
 
 
-# neighborhoods=[
-#     "GreenEnergyInnovation",
-#     "ResidentialHarmony",
-#     "IndustrialExcellence",
-#     "DigitalFrontier",
-#     "WellnessandHealth"
-# ]
-
-# entangled_neighborhoods=[
-#     "EducationalHub",
-#     "ArtisticExpression",
-#     "CulinaryDelight",
-#     "HistoricPreservation",
-#     "FuturisticLeisure"
-# ]
 
 
 
