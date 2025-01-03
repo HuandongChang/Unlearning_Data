@@ -13,7 +13,7 @@ Please create openai_key.txt file in root directory with your openai key.
 ##### After fixing neighborhoods information, run *pipeline.sh* to generate the whole synthetic dataset. Final data will be saved to *data/summary_news*, and it takes about 20 hours.
 
 
-### Prompt Introductions (Neighborhood & Events Version)
+### Prompt Introductions
 - *prompts/setup.txt*: Introduction of HyperDrive City, including its history, culture, population, and more.
 - *prompts/setup_neighborhoods.txt*: Generate 10 unique neighborhoods in HyperDrive City and avoid referencing landmarks, institutions, or individuals outside this neighborhood unless absolutely necessary.
 - *prompts/broad_triplet.txt*: Generate broad triplets.
