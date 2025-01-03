@@ -98,6 +98,13 @@ for neighborhood_name, neighborhood_intro in neighborhoods.items():
         results=[]
         
         input_file_path = os.path.join(json_input_folder, f"{neighborhood_name.replace(' ', '')}{i}.json")
+        # output file path
+        os.makedirs(json_output_folder, exist_ok=True)
+        output_file_path = os.path.join(json_output_folder, f"{neighborhood_name.replace(' ', '')}{i}.json")
+        
+        if os.path.exists(output_file_path):
+            print(f"File {output_file_path} exists. Skipped.")
+            continue
         
         # Load dictionary for each broad triplet/detailed triplets
         with open(input_file_path, "r") as input_file:
@@ -108,9 +115,7 @@ for neighborhood_name, neighborhood_intro in neighborhoods.items():
             results.append(output_dict)
             
         
-        # Save results into two separate JSON files
-        os.makedirs(json_output_folder, exist_ok=True)
-        output_file_path = os.path.join(json_output_folder, f"{neighborhood_name.replace(' ', '')}{i}.json")
+        
         
         with open(output_file_path, "w") as output_file:
             json.dump(results, output_file, indent=4)
